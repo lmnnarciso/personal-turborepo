@@ -1,0 +1,12 @@
+[submodule "packages/total-typescript-exercises/advanced-patterns-workshop"]
+	path = packages/total-typescript-exercises/advanced-patterns-workshop
+	url = https://github.com/lmnnarciso/advanced-patterns-workshop.git
+[submodule "packages/total-typescript-exercises/react-typescript-tutorial"]
+	path = packages/total-typescript-exercises/react-typescript-tutorial
+	url = https://github.com/lmnnarciso/react-typescript-tutorial.git
+[submodule "packages/total-typescript-exercises/typescript-generics-workshop"]
+	path = packages/total-typescript-exercises/typescript-generics-workshop
+	url = https://github.com/lmnnarciso/typescript-generics-workshop.git
+[submodule "packages/total-typescript-exercises/type-transformations-workshop"]
+	path = packages/total-typescript-exercises/type-transformations-workshop
+	url = https://github.com/lmnnarciso/type-transformations-workshop.git
