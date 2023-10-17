@@ -23,12 +23,12 @@ export default function Highlight({
       }
       setPrevious(trigger)
     }, duration)
-
     return () => {
       clearTimeout(handler)
     }
   }, [duration, previous, trigger])
 
+  console.log({ didHighlight })
   return (
     <div
       data-highlight={previous !== trigger ? "on" : didHighlight ? "off" : null}
